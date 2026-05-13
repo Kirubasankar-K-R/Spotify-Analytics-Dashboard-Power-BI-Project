@@ -186,6 +186,3 @@ Click below to view the interactive Power BI Dashboard:
 
 ---
 
-# ⭐ Support
-
-If you found this project helpful, please give it a ⭐ on GitHub!
