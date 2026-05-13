@@ -114,19 +114,6 @@ The dataset contains important Spotify music attributes such as:
 * Song popularity fluctuates throughout different months.
 * Several artists consistently produce high-ranking hit songs.
 
----
-
-# 📁 Files Included
-
-| File Name              | Description                   |
-| ---------------------- | ----------------------------- |
-| Spotify Dashboard.pbix | Power BI Dashboard File       |
-| spotify_dataset.csv    | Source Dataset                |
-| Spotify Home page.png  | Home Dashboard Screenshot     |
-| Spotify Overview.png   | Overview Dashboard Screenshot |
-| Spotify Artists.png    | Artists Dashboard Screenshot  |
-| Spotify song.png       | Songs Dashboard Screenshot    |
-| README.md              | Project Documentation         |
 
 ---
 
