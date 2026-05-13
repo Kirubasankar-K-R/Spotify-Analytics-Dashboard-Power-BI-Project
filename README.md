@@ -134,7 +134,7 @@ The dataset contains important Spotify music attributes such as:
 
 ## 🏠 Home Dashboard
 
-![Home Dashboard](images/Spotify%20Home%20page.png)
+![Home Dashboard](https://github.com/Kirubasankar-K-R/Spotify-Analytics-Dashboard-Power-BI-Project/blob/main/Spotify%20Home%20page.png)
 
 ---
 
