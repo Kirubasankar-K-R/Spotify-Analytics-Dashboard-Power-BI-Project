@@ -140,7 +140,7 @@ The dataset contains important Spotify music attributes such as:
 
 ## 📊 Overview Dashboard
 
-![Overview Dashboard](images/Spotify%20Overview.png)
+![Overview Dashboard](https://github.com/Kirubasankar-K-R/Spotify-Analytics-Dashboard-Power-BI-Project/blob/main/Spotify%20Overview.png)
 
 ---
 
