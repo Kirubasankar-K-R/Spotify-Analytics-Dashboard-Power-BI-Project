@@ -152,7 +152,7 @@ The dataset contains important Spotify music attributes such as:
 
 ## 🎶 Songs Dashboard
 
-![Songs Dashboard](images/Spotify%20song.png)
+![Songs Dashboard](https://github.com/Kirubasankar-K-R/Spotify-Analytics-Dashboard-Power-BI-Project/blob/main/Spotify%20song.png)
 
 ---
 
